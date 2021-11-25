@@ -8,6 +8,4 @@ hello zehua
 hello zehua 
 hello zehua 
 hello zehua  master test
-hello zehua 
-hello zehua 
 hello zehua hot-fix 
